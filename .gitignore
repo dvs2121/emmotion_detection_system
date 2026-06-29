@@ -113,3 +113,7 @@ processed_data/
 
 # Trained model (optional)
 best_cnn-lstm_model.keras
+EMO-DB/
+*.h5
+*.npy
+*.json
